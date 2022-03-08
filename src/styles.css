@@ -3,5 +3,37 @@
 body{
     margin: 0;
     height: 100%;
-    background-color: yellow;
+    background-image: url('\src\app\iamges\background.jpg');
 }
+
+.plotContainer{
+    width: 50%;
+    
+}
+
+.plotContainer p{
+    border: 1px solid black;
+    border-radius: 5px;
+    padding: 10px;
+}
+
+.plotContainer h4{
+    text-decoration: underline;
+    
+}
+
+.container{
+    background-color: seashell;
+    padding: 40px;
+    border-radius: 20px;
+}
+
+#resultContainer{
+    margin: 20px;
+  padding: 10px 10px 20px 10px;
+  border: 1px solid #BFBFBF;
+  background-color: white;
+  box-shadow: 10px 10px 5px #aaaaaa;
+  border-radius: 20px;
+}
+

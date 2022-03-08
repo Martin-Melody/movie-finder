@@ -3,5 +3,6 @@ export interface IOMDBResponse {
     Year:string;
     Director:string;
     Poster:string;
+    Plot:string;
     Error:string;
 }
